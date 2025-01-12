@@ -38,19 +38,17 @@ const Footer = () => {
           <div>
             <h3 className="font-bold text-2xl">About</h3>
             <p className="text-slate-600">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
-              error voluptatem dolorem! Recusandae sequi, pariatur expedita odit
-              placeat aspernatur quasi?
+             This Project Owner Aliya Manzoor
             </p>
           </div>
           <div>
             <span className="block">
               <span className="font-bold">Email:</span>{" "}
-              nadeemsangrasi903@gmail.com
+             sultansalahuddin295@gmail.com
             </span>
             <span>
               <span className="font-bold">Phone:</span>{" "}
-              nadeemsangrasi903@gmail.com
+              sultansalahuddin295@gmail.com
             </span>
           </div>
         </div>
